@@ -47,7 +47,8 @@ Beyond games, I’m also exploring the world of **AI**, automation, and tools th
 
 ## 📊 GitHub Stats
 
-![Tú's GitHub stats](https://github-readme-stats.vercel.app/api?username=tulklk&show_icons=true&theme=github_dark&hide_title=true&count_private=true&hide=issues)
+![Tú's GitHub stats](https://github-readme-stats.vercel.app/api?username=tulklk&show_icons=true&theme=github_dark&hide_title=true&hide=issues)
+
 
 ---
 
