@@ -14,7 +14,7 @@ Beyond games, I’m also exploring the world of **AI**, automation, and tools th
 - 🚀 Long-term goal: Become a full-stack game architect & indie studio founder.
 - 🌱 Learning: Unity Shader Graph, GitHub Actions, Firebase Realtime DB
 - 🧩 Interested in: Game Design Systems, Performance Optimization, AI for Games
-- 📫 Contact me: [Facebook](https://www.facebook.com/tu.phan.94647) • Email: tulklk32@gmail.com
+- 📫 Contact me: Email: tulklk32@gmail.com
 
 ---
 
