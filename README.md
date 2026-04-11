@@ -20,6 +20,9 @@
 
 ## 🚀 About Me
 
+<div align="center">
+
+```ts
 interface Developer {
   name: string;
   role: string[];
@@ -29,12 +32,15 @@ interface Developer {
 }
 
 const tulklk: Developer = {
-  name: "Linh Võ",
+  name: "Tú Phan",
   role: ["Competitive Programmer", "Software Engineer"],
   passion: ["Problem Solving", "Clean Code", "Innovation"],
-  currentFocus: "Building scalable solutions & mastering algorithms",
+  currentFocus: "Building scalable solutions",
   location: "Vietnam VN"
 };
+
+```
+</div>
 
 
 
