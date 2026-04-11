@@ -38,8 +38,8 @@ I enjoy solving complex problems and building scalable systems
 ## 🏆 Competitive Programming Journey
 
 <p align="center">
-  <img width="46%" src="https://codeforces-readme-stats.vercel.app/api/card?username=tulklk&theme=dark" />
-  <img width="46%" src="https://leetcard.jacoblin.cool/tulklk?theme=dark&font=baloo&ext=contest" />
+  <img width="45%" src="https://codeforces-readme-stats.vercel.app/api/card?username=tulklk&theme=dark" />
+  <img width="45%" src="https://leetcard.jacoblin.cool/tulklk?theme=dark&font=baloo&ext=contest" />
 </p>
 
 ---
