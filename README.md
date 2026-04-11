@@ -1,45 +1,41 @@
-# 👋 Hello, I'm Tú
+<!-- ========================================= -->
+<!--           GITHUB PROFILE README          -->
+<!-- ========================================= -->
 
-<p align="left">
-  <strong>🎮 Game Developer</strong> •
-  <strong>💻 Full-Stack Developer</strong> •
-  <strong>🧠 AI Enthusiast</strong> •
-  <strong>🚀 Indie Hacker</strong>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A5CF6,50:E879F9,100:F59E0B&height=220&section=header&text=Hi%20there,%20I'm%20tulklk%20👋&fontSize=42&fontColor=ffffff&fontAlignY=40&desc=Competitive%20Programmer%20%7C%20Software%20Engineer&descAlignY=62&descSize=20" />
 </p>
 
-<p align="left">
-  🇻🇳 Based in Vietnam
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2500&pause=1200&color=4F46E5&center=true&vCenter=true&width=800&lines=Welcome+to+my+GitHub!;Building+scalable+solutions;Solving+complex+problems" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/github/followers/tulklk?style=for-the-badge&color=111827&labelColor=0f172a&logo=github&label=FOLLOWERS" />
+  <img src="https://img.shields.io/github/stars/tulklk?style=for-the-badge&color=6366F1&labelColor=0f172a&logo=github&label=STARS" />
+  <img src="https://komarev.com/ghpvc/?username=tulklk&style=for-the-badge&color=ec4899&label=PROFILE+VIEWS" />
 </p>
 
 ---
 
 ## 🚀 About Me
 
-I'm a **Game Developer** and **Full-Stack Developer** who enjoys building both **interactive game experiences** and **real-world software systems**.
 
-With a strong foundation in **C#**, **Unity**, **.NET**, and modern web technologies, I focus on creating products that are not only functional, but also scalable, maintainable, and enjoyable to use.
+interface Developer {
+  name: string;
+  role: string[];
+  passion: string[];
+  currentFocus: string;
+  location: string;
+}
 
-I love working across the full development cycle — from idea, architecture, and implementation to optimization, deployment, and iteration.
-
-### 🔍 Current Focus
-- 🎮 Building mobile games with **Unity** and **C#**
-- 💻 Developing backend systems with **ASP.NET Core Web API**
-- 🌐 Creating modern web applications with **React / Next.js**
-- ☁️ Deploying and maintaining applications on cloud platforms
-- 🧠 Exploring **AI**, **automation**, and productivity-driven tools
-
-### 🎯 Career Goal
-To become a **strong full-stack engineer with deep game development expertise**, and in the long term, build products as an **indie creator / studio founder**.
-
----
-
-## 💼 Professional Summary
-
-- Strong foundation in **Game Development** and **Software Engineering**
-- Experienced with **Unity**, **C#**, and **mobile game systems**
-- Skilled in building **RESTful APIs**, authentication systems, and backend architecture
-- Familiar with **frontend development**, cloud deployment, and modern dev workflows
-- Interested in **performance optimization**, **game systems design**, and **AI for products/games**
+const tulklk: Developer = {
+  name: "Linh Võ",
+  role: ["Competitive Programmer", "Software Engineer"],
+  passion: ["Problem Solving", "Clean Code", "Innovation"],
+  currentFocus: "Building scalable solutions & mastering algorithms",
+  location: "Vietnam VN"
+};
 
 ---
 
@@ -134,80 +130,13 @@ To become a **strong full-stack engineer with deep game development expertise**,
 
 ---
 
-## 🚀 Featured Projects
-
-### 🎮 Balloon-Mach-Saga
-**Role:** Game Developer  
-**Tech:** Unity, C#, Mobile Optimization
-
-An casual puzzule mobile game focused on smooth gameplay, scalable systems, and engaging progression.
-
-**Highlights**
-- Built reusable gameplay systems
-- Applied object pooling to optimize performance
-- Designed mobile-friendly gameplay loop
-- Implemented shop / economy / progression features
-- Focused on code structure and maintainability
+📊 GitHub Analytics
+<p align="center"> <img width="49%" src="https://github-readme-stats.vercel.app/api?username=tulklk&show_icons=true&theme=tokyonight&hide_border=true" /> <img width="49%" src="https://streak-stats.demolab.com?user=tulklk&theme=tokyonight&hide_border=true" /> </p> <p align="center"> <img width="70%" src="https://github-readme-activity-graph.vercel.app/graph?username=tulklk&bg_color=0d1117&color=58a6ff&line=3b82f6&point=f59e0b&area=true&hide_border=true" /> </p>
 
 ---
 
-### 💻 Full-Stack Web API Projects
-**Role:** Full-Stack / Backend Developer  
-**Tech:** ASP.NET Core Web API, EF Core, JWT, React, Next.js
-
-Backend and full-stack systems with real-world features such as authentication, role management, integrations, and deployment.
-
-**Highlights**
-- RESTful API design
-- JWT authentication and OAuth login
-- Entity Framework Core integration
-- Frontend integration with React / Next.js
-- Deployment to cloud platforms
-- Payment and external service integration
-
----
-
-### ☁️ Deployment & Integration Experience
-Worked with modern deployment platforms and development workflows to bring applications from local development to production-ready environments.
-
-**Hands-on areas**
-- Dockerized applications
-- Deployments on Vercel / Railway / Fly.io
-- API testing with Postman / Swagger
-- CI/CD basics with GitHub Actions
-- Cloud service usage with AWS / Azure
-
----
-
-## 📈 Strengths
-
-- Strong problem-solving mindset
-- Able to work across both **game development** and **web development**
-- Comfortable learning new tools quickly
-- Focused on building maintainable systems, not just quick fixes
-- Interested in combining **engineering + product thinking + user experience**
-
----
-
-## 🌱 Currently Learning
-
-- Unity Shader Graph
-- GitHub Actions / CI-CD workflows
-- Firebase Realtime Database
-- AI-assisted development workflows
-- Better architecture patterns for scalable products
-
----
-
-## 📊 GitHub Stats
-
-![Tú's GitHub stats](https://github-readme-stats.vercel.app/api?username=tulklk&show_icons=true&theme=github_dark&hide_title=true&hide=issues)
-
----
-
-## 📈 Top Languages
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tulklk&layout=compact&theme=github_dark)
+🏆 Competitive Programming Journey
+<p align="center"> <img width="45%" src="https://codeforces-readme-stats.vercel.app/api/card?username=linvg&theme=dark" /> <img width="45%" src="https://leetcard.jacoblin.cool/tulklk?theme=dark&font=baloo&ext=contest" /> </p>
 
 ---
 
