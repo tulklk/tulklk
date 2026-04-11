@@ -10,12 +10,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2500&pause=1200&color=4F46E5&center=true&vCenter=true&width=800&lines=Welcome+to+my+GitHub!;Building+scalable+solutions;Solving+complex+problems" />
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/github/followers/tulklk?style=for-the-badge&color=111827&labelColor=0f172a&logo=github&label=FOLLOWERS" />
-  <img src="https://img.shields.io/github/stars/tulklk?style=for-the-badge&color=6366F1&labelColor=0f172a&logo=github&label=STARS" />
-  <img src="https://komarev.com/ghpvc/?username=tulklk&style=for-the-badge&color=ec4899&label=PROFILE+VIEWS" />
-</p>
-
 ---
 
 ## 🚀 About Me
