@@ -38,9 +38,8 @@ const tulklk: Developer = {
   currentFocus: "Building scalable solutions",
   location: "Vietnam VN"
 };
-
-```
 </div>
+```
 
 
 
