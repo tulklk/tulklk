@@ -20,28 +20,14 @@
 
 ## 🚀 About Me
 
-<div align="center">
+Hi, I'm a **Competitive Programmer** and **Software Engineer**  
+I enjoy solving complex problems and building scalable systems  
 
-```ts
-interface Developer {
-  name: string;
-  role: string[];
-  passion: string[];
-  currentFocus: string;
-  location: string;
-}
+- 🧠 Algorithms & Problem Solving  
+- ⚙️ Backend & System Design  
+- 🎮 Game Development  
 
-const tulklk: Developer = {
-  name: "Tú Phan",
-  role: ["Competitive Programmer", "Software Engineer"],
-  passion: ["Problem Solving", "Clean Code", "Innovation"],
-  currentFocus: "Building scalable solutions",
-  location: "Vietnam VN"
-};
-</div>
-```
-
-
+📍 Vietnam
 
 ---
 📊 GitHub Analytics
