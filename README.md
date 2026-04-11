@@ -3,7 +3,7 @@
 <!-- ========================================= -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A5CF6,50:E879F9,100:F59E0B&height=220&section=header&text=Hi%20there,%20I'm%20tulklk%20👋&fontSize=42&fontColor=ffffff&fontAlignY=40&desc=Competitive%20Programmer%20%7C%20Software%20Engineer&descAlignY=62&descSize=20" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A5CF6,50:E879F9,100:F59E0B&height=220&section=header&text=Hi%20there,%20I'm%20Tu%20👋&fontSize=42&fontColor=ffffff&fontAlignY=40&desc=Competitive%20Programmer%20%7C%20Software%20Engineer&descAlignY=62&descSize=20" />
 </p>
 
 <p align="center">
@@ -20,7 +20,6 @@
 
 ## 🚀 About Me
 
-
 interface Developer {
   name: string;
   role: string[];
@@ -36,6 +35,8 @@ const tulklk: Developer = {
   currentFocus: "Building scalable solutions & mastering algorithms",
   location: "Vietnam VN"
 };
+
+
 
 ---
 📊 GitHub Analytics
