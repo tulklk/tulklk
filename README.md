@@ -38,6 +38,15 @@ const tulklk: Developer = {
 };
 
 ---
+📊 GitHub Analytics
+<p align="center"> <img width="49%" src="https://github-readme-stats.vercel.app/api?username=tulklk&show_icons=true&theme=tokyonight&hide_border=true" /> <img width="49%" src="https://streak-stats.demolab.com?user=tulklk&theme=tokyonight&hide_border=true" /> </p> <p align="center"> <img width="70%" src="https://github-readme-activity-graph.vercel.app/graph?username=tulklk&bg_color=0d1117&color=58a6ff&line=3b82f6&point=f59e0b&area=true&hide_border=true" /> </p>
+
+---
+
+🏆 Competitive Programming Journey
+<p align="center"> <img width="45%" src="https://codeforces-readme-stats.vercel.app/api/card?username=tulklk&theme=dark" /> <img width="45%" src="https://leetcard.jacoblin.cool/tulklk?theme=dark&font=baloo&ext=contest" /> </p>
+
+---
 
 ## 🧠 Tech Stack
 
@@ -49,11 +58,6 @@ const tulklk: Developer = {
 
 ### 🎮 Game Development
 ![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white)
-![Mobile Game Development](https://img.shields.io/badge/Mobile_Game_Development-222222?style=flat-square&logo=android&logoColor=white)
-![Shader Graph](https://img.shields.io/badge/Shader_Graph-FF6F00?style=flat-square&logo=unity&logoColor=white)
-![Game Systems](https://img.shields.io/badge/Game_Systems-5C6BC0?style=flat-square)
-![Performance Optimization](https://img.shields.io/badge/Performance_Optimization-00897B?style=flat-square)
-![Blender](https://img.shields.io/badge/Blender-F5792A?style=flat-square&logo=blender&logoColor=white)
 
 ### ⚙️ Backend & Frameworks
 ![ASP.NET Core Web API](https://img.shields.io/badge/ASP.NET_Core_Web_API-512BD4?style=flat-square&logo=dotnet&logoColor=white)
@@ -61,11 +65,6 @@ const tulklk: Developer = {
 ![Entity Framework Core](https://img.shields.io/badge/Entity_Framework_Core-68217A?style=flat-square&logo=dotnet&logoColor=white)
 ![RESTful APIs](https://img.shields.io/badge/RESTful_APIs-FF6C37?style=flat-square&logo=postman&logoColor=white)
 ![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-111111?style=flat-square)
-![CQRS](https://img.shields.io/badge/CQRS-00695C?style=flat-square)
-![JWT Authentication](https://img.shields.io/badge/JWT_Authentication-000000?style=flat-square&logo=jsonwebtokens)
-![OAuth](https://img.shields.io/badge/OAuth-3C3C3C?style=flat-square)
-![Role Based Authorization](https://img.shields.io/badge/Role_Based_Authorization-4CAF50?style=flat-square)
-![CORS](https://img.shields.io/badge/CORS-FF3E00?style=flat-square)
 
 ### 🌐 Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
@@ -97,48 +96,7 @@ const tulklk: Developer = {
 ![OpenAPI](https://img.shields.io/badge/OpenAPI-6BA539?style=flat-square&logo=openapiinitiative&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 
-### 💳 Payments & Integrations
-![PayOS](https://img.shields.io/badge/PayOS-00A86B?style=flat-square)
-![VNPay](https://img.shields.io/badge/VNPay-005BAC?style=flat-square)
-![MoMo](https://img.shields.io/badge/MoMo-D82D8B?style=flat-square)
-![Google Gemini AI](https://img.shields.io/badge/Google_Gemini_AI-4285F4?style=flat-square&logo=google&logoColor=white)
-![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=flat-square&logo=cloudinary&logoColor=white)
 
----
-
-## 🧩 What I Can Build
-
-### 🎮 As a Game Developer
-- Mobile games with **Unity**
-- Core gameplay systems
-- Endless runner / arcade mechanics
-- Shop, currency, vehicle, and upgrade systems
-- Performance optimization for mobile
-- UI flow and user experience for games
-- Basic 3D asset workflow with Blender
-- Game architecture and reusable systems
-
-### 💻 As a Full-Stack Developer
-- RESTful APIs with **ASP.NET Core**
-- Authentication & authorization systems
-- CRUD systems and admin dashboards
-- Frontend apps with **React / Next.js**
-- Database design and integration
-- Cloud deployment and CI/CD workflows
-- Payment gateway integrations
-- Clean and maintainable software architecture
-
----
-
-📊 GitHub Analytics
-<p align="center"> <img width="49%" src="https://github-readme-stats.vercel.app/api?username=tulklk&show_icons=true&theme=tokyonight&hide_border=true" /> <img width="49%" src="https://streak-stats.demolab.com?user=tulklk&theme=tokyonight&hide_border=true" /> </p> <p align="center"> <img width="70%" src="https://github-readme-activity-graph.vercel.app/graph?username=tulklk&bg_color=0d1117&color=58a6ff&line=3b82f6&point=f59e0b&area=true&hide_border=true" /> </p>
-
----
-
-🏆 Competitive Programming Journey
-<p align="center"> <img width="45%" src="https://codeforces-readme-stats.vercel.app/api/card?username=linvg&theme=dark" /> <img width="45%" src="https://leetcard.jacoblin.cool/tulklk?theme=dark&font=baloo&ext=contest" /> </p>
-
----
 
 ## 🤝 Open To
 
