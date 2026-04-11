@@ -35,7 +35,11 @@ I enjoy solving complex problems and building scalable systems
 
 ---
 
-## 🏆 Competitive Programming Journey
+# 🏆 Competitive Programming Journey
+
+<p align="center">
+  <b style="font-size:18px;">tulklk's CodeForces Stats</b>
+</p>
 
 <p align="center">
   <img width="45%" src="https://codeforces-readme-stats.vercel.app/api/card?username=tulklk&theme=dark" />
